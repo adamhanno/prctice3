@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 class Dec2Hex
 {
-//Adam
-    public static int Arg1;
+//Adam Hanno
+     public static int Arg1;
 
     public static void main(String args[])
     {
