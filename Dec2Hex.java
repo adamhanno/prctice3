@@ -4,7 +4,7 @@ class Dec2Hex
 {
 //Adam Hanno
 // GCU and students
-// Good Ganges"
+
      public static int Arg1;
 
     public static void main(String args[])
