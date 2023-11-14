@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Dec2Hex
 {
 //Adam Hanno
+// GCU
      public static int Arg1;
 
     public static void main(String args[])
