@@ -4,7 +4,7 @@ class Dec2Hex {
 
     public static void main(String args[]) {
         // Check if no input argument is provided
-        if (chr.length == 0) {
+        if (Arg1.length == 0) {
             System.err.println("Error: No input provided. Please provide an integer input.");
             return;
         }
