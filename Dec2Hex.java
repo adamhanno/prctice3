@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Dec2Hex
 {
-//Name:Adam Hanno
+//original code displayed
 
      public static int Arg1;
 
