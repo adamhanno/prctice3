@@ -1,5 +1,5 @@
 import java.util.Scanner;
-               // Java  updated  code
+
 class Dec2Hex {
 
     public static void main(String args[]) {
